@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+section{
+    padding-top: 4rem;
+}
+
+#newsletter{
+    padding-top: 0;
+}
